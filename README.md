@@ -30,6 +30,6 @@ The products table should have each of the following columns:
 
 ![Image 4-20-19 at 12 55 PM](https://user-images.githubusercontent.com/46546551/66018105-b04eb700-e4ab-11e9-979a-672523260259.jpg)
 
-
+## This option allows the manager to exsisting inventory
 
 ![Image 4-20-19 at 12 57 PM](https://user-images.githubusercontent.com/46546551/66018212-27844b00-e4ac-11e9-8f07-1fb58b5162ac.jpg)
