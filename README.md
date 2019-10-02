@@ -22,5 +22,5 @@ The products table should have each of the following columns:
 
 ![Image 4-20-19 at 12 53 PM](https://user-images.githubusercontent.com/46546551/66017819-5b5e7100-e4aa-11e9-9a4d-3909d10f84a4.jpg)
 
-
+![Image 4-20-19 at 12 55 PM 2](https://user-images.githubusercontent.com/46546551/66018006-43d3b800-e4ab-11e9-959a-5265c6b483e2.jpg)
 
