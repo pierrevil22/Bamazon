@@ -18,6 +18,7 @@ The products table should have each of the following columns:
 
 - stock_quantity (how much of the product is available in stores)
 
+![Image 4-20-19 at 12 53 PM](https://user-images.githubusercontent.com/46546551/66017819-5b5e7100-e4aa-11e9-9a4d-3909d10f84a4.jpg)
 
 
 
